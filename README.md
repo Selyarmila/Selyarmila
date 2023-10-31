@@ -149,6 +149,35 @@ Pelajaran Mata kuliah p website 30 agustus 2023
 </body>
 </html>
 		
+<!doctype html>
+<html>
+    <Head>
+        include('topdata.php');
+        <form action="hasil.php" method="post">
+Nama anda:<input type-"text" name="nama1"><br>
+Alamat:<input type "tend" name"<><br>
+Jenis Kelamin:
+<input type="radio" name="gender" value="laka-laka"=Laki-Laki
+<input type= "radio" name sender" value="perempuan"-Pereupuan
+<br>
+Warna Kesukaan:
+<select name ="color id "color"></select>
+<coption value=""--- Choose a color ---</options
+<Coption value="red">coklat</option>
+<Coption value="green"=Kuning</option
+Coption value- "yelow*»Huans/optiona <option value-"blue"=-Meral-/option=
+Coption value
+"brown"-Birus/optione
+«select»
+bro
+«input type "submits
+¿/form»
+<a hrcE7 1anコロENCHE
+
+        
+</html>
+
+
 
 
 <!---
